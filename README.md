@@ -12,8 +12,8 @@ O resultado do experimento foi algo parecido com isto:
 [1, 0] = [212, 255] , [29, 255] = 183
 [1, 1] = [172, 255] , [98, 255] = 74
 
-O que � estranho � que a segunda parte da formula da distancia euclidiana sempre vai dar 0, j� que subtrai 255 com 255.
-A pr�xima etapa � verificar se isto esta realmente certo sobre dar sempre 0 e fazer o algoritmo somar os valores do resultado.
+O que é estranho é que a segunda parte da formula da distancia euclidiana sempre vai dar 0, já que subtrai 255 com 255.
+A próxima etapa é verificar se isto esta realmente certo sobre dar sempre 0 e fazer o algoritmo somar os valores do resultado.
 
 Mahalanobis:
 Utiliza desvio padrão para uma análise mais precisa
