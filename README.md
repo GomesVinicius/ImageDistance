@@ -1,3 +1,6 @@
+Código para projeto de faculdade
+
+Fórmulas matemáticas:
 http://axon.cs.byu.edu/~randy/jair/wilson2.html
 
 Os testes estão sendo feitos até uma distância de 2 pixels
