@@ -22,3 +22,13 @@ A minha implementanção ainda não foi testada
 Manhatan:
 Se for apenas um |x1 - x2| + |y1 - y2| meu algoritmo esta correto.
 Problema encontrado é o de que imagens iguais não vão se anular, ou seja, o resultado de suas distancias não será 0
+
+---
+
+Testes com Filtros:
+Distancia Euclidiana:
+SEM FILTRO: 225.84
+SHARPEN: 216.22
+DETAIL: 216.06
+EDGE_ENHANCE: 228.59
+EDGE_ENHANCE_MORE: 231.97
