@@ -1,18 +1,21 @@
-from PIL import Image, ImageColor
+from PIL import Image, ImageFilter
 
 #i1 = Image.open('images/left_50x50.png').convert('LA') / i1.save('images/g_left_50x50.png')
 img1 = Image.open('images/g_left_50x50.png')
 img2 = Image.open('images/g_right_50x50.png')
 
+
 px1 = img1.load()
 px2 = img2.load()
+#px1 = img1.load()
+#px2 = img2.load()
 soma = 0
 euclidean = []
 parte1 = []
 parte2 = []
 
-for x in range(img1.width):
-    for y in range(img1.height):
+for x in range(2):#img1.width):
+    for y in range(2):#img1.height):
         a, b = px1[x, y]
         print('Valor de A: ', a)
         print('Valor de B: ', b)
