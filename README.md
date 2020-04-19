@@ -1,4 +1,4 @@
-#Introduction
+# Introduction
 
 Projeto de faculdade de processamento de imagem
 Image processing college project
@@ -13,15 +13,15 @@ pip install PIL
 pip install scipy
 ```
 
-#Formulas
+# Formulas
 
 http://axon.cs.byu.edu/~randy/jair/wilson2.html
 
-#Progress
+# Progress
 
-##Done
+## Done
 - Calculos de distância efetuados com formulas diferentes
 
-##Doing
+## Doing
 - Revisões
 - Implementação em arquivos .gif fazendo o processo de calculo de distância por frame
